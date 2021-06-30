@@ -1,5 +1,5 @@
 # springboot-challenge
-Coding challenge: Develop a Spring Boot REST service 
+Coding challenge: Develop a  Spring Boot REST service 
 
 # Scope
 Create a simple CRUD API to manage places:
